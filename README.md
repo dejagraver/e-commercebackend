@@ -27,13 +27,13 @@ E-commerce Back End is an application entails the creation of databases using my
 
 <a name="Usage">#Usage</a>
 
-https://youtu.be/P1lDaUoqh3k
-
+ https://www.youtube.com/watch?v=vuwQnikIPpQ
     <br />
 
 
  <a name="Links">#Links</a>
-https://youtu.be/P1lDaUoqh3k
+https://www.youtube.com/watch?v=vuwQnikIPpQ
+
 https://github.com/dejagraver/e-commercebackend
 
   <br />
